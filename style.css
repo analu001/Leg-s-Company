@@ -10,7 +10,7 @@ header {
     color: #002C66;
 }
 .paragrafo {
-    width: 18%;
+    width: 47px;
     padding-left: 10px;
     border: solid #002C66;
     border-width: 0 0 0 2px;
@@ -38,4 +38,5 @@ footer{
     .paragrafo{
         width: 1%;
     }
+    
 }
