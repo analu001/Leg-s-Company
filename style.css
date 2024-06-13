@@ -24,3 +24,11 @@ color: #DB6922;
 .Reabilitacao { display: flex;
 
 }
+
+footer{ 
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+} 
