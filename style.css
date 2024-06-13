@@ -17,8 +17,9 @@ header {
     padding-top: 7px;
 
 }
-.perneta {height: 124px;
-color: #DB6922;
+.perneta {
+    width: 20%;
+    border-radius: 12px;
 }
 
 .Reabilitacao { display: flex;
@@ -38,5 +39,5 @@ footer{
     .paragrafo{
         width: 1%;
     }
-    
+
 }
