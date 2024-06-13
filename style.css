@@ -10,7 +10,7 @@ header {
     color: #002C66;
 }
 .paragrafo {
-    width: 1%;
+    width: 18%;
     padding-left: 10px;
     border: solid #002C66;
     border-width: 0 0 0 2px;
@@ -32,3 +32,10 @@ footer{
     align-items: center;
     font-size: 12px;
 } 
+
+
+@media screen and (min-width: 1024px){
+    .paragrafo{
+        width: 1%;
+    }
+}
