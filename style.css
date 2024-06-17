@@ -56,7 +56,7 @@ body{
     background-color: var(--color-de-fundo--);
 }
 
-section.texto{
+section{
     background-color: var(--color-de-fundo--);
     display: flex;
     justify-content: space-around;
