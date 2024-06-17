@@ -55,3 +55,7 @@ footer{
 body{
     background-color: var(--color-de-fundo--);
 }
+
+#texto{
+    background-color: var(--color-de-fundo--);
+}
