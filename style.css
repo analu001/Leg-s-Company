@@ -28,6 +28,8 @@ header {
 }
 
 .Reabilitacao { display: flex;
+    justify-content: center;
+    align-items: flex-start;
 
 }
 
