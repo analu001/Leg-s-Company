@@ -41,6 +41,12 @@ footer{
     font-size: 12px;
 } 
 
+
+@media screen and (min-width: 1024px){
+    .paragrafo{
+        width: 1%;
+    }
+}
 .perneta {
     width: 20%;
     border-radius: 10px;
