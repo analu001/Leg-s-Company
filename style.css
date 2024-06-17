@@ -58,4 +58,5 @@ body{
 
 #texto{
     background-color: var(--color-de-fundo--);
+    color: var(--color-de-fundo--);
 }
