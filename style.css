@@ -17,9 +17,10 @@ header {
     padding-top: 7px;
 
 }
+
 .perneta {
     width: 20%;
-    border-radius: 12px;
+    border-radius: 20px;
 }
 
 .Reabilitacao { display: flex;
@@ -44,3 +45,5 @@ footer{
     width: 20%;
     border-radius: 12px;
 }
+
+body
