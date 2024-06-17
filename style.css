@@ -50,6 +50,6 @@ footer{
     border-radius: 12px;
 }
 
-.body{
+section{
     background-color: var(--color-de-fundo--) ;
 }
