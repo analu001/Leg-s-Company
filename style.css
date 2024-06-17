@@ -56,7 +56,9 @@ body{
     background-color: var(--color-de-fundo--);
 }
 
-#texto{
+section{
     background-color: var(--color-de-fundo--);
     color: var(--color-de-fundo--);
+    display: flex;
+    justify-content: space-around;
 }
