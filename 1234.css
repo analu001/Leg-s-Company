@@ -1,0 +1,67 @@
+foot{
+    --color-de-fundo--: #002C66;
+    --cor-de-texto--: #DB6922;
+    --princ--: #ffffff;
+}
+header { 
+    background-color: var(--princ--);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+} 
+.title {
+    margin-right: 10px;
+    color: var(--color-de-fundo--);
+}
+.paragrafo {
+    width: 47px;
+    padding-left: 10px;
+    border-width: 0 0 0 2px;
+    padding-top: 7px;
+
+}
+
+.perneta {
+    width: 10%;
+    border-radius: 12px;
+}
+
+.Reabilitacao { display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    color: #DB6922;
+
+}
+
+footer{ 
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+} 
+
+
+@media screen and (min-width: 1024px){
+    .paragrafo{
+        width: 1%;
+    }
+}
+.perneta {
+    width: 20%;
+    border-radius: 10px;
+}
+
+
+section{
+    background-color: var(--color-de-fundo--);
+    display: flex;
+    justify-content: space-around;
+    background: #002C66;
+    color: white;
+
+*{
+    margin: 5px;
+    padding: 25px ;
+}
