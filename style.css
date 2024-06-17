@@ -1,3 +1,7 @@
+foot{
+    --color-de-fundo--: #002C66;
+    --cor-de-texto--: #DB6922;
+}
 header { 
     
     display: flex;
@@ -7,12 +11,12 @@ header {
 } 
 .title {
     margin-right: 10px;
-    color: #002C66;
+    color: var(--color-de-fundo--);
 }
 .paragrafo {
     width: 47px;
     padding-left: 10px;
-    border: solid #002C66;
+    border: solid var(--color-de-fundo--);
     border-width: 0 0 0 2px;
     padding-top: 7px;
 
@@ -46,4 +50,6 @@ footer{
     border-radius: 12px;
 }
 
-body
+body{
+    background-color: ;
+}
