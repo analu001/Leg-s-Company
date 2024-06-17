@@ -63,8 +63,8 @@ section{
     color: white;
 
 *{
-    margin: 0px;
-    padding: 30px ;
+    margin: 0;
+    padding: 0 ;
 }
 body{
     margin: auto;
