@@ -51,6 +51,10 @@ footer{
 .perneta {
     width: 10%;
     border-radius: 10px;
+    height: 1000px;
+    width: 60px;
+    margin-bottom: 20px;
+    
 }
 
 
@@ -75,9 +79,6 @@ image{
 
     border-radius: 100px;
     float: right;
-    height: 1000px;
-    width: 60px;
-    margin-bottom: 20px;
     
 
 }
