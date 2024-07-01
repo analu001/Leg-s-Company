@@ -9,6 +9,8 @@ header {
     text-align: center;
     justify-content: center;
     align-items: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
 } 
 .title {
     margin-right: 10px;
