@@ -75,6 +75,9 @@ image{
 
     border-radius: 100px;
     float: right;
+    height: 100px;
+    width: 60px;
+    margin-bottom: 20px;
     
 
 }
